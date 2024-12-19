@@ -6,3 +6,12 @@
   text-align: center;
 }
 
+.link {
+  color: white;
+}
+
+.link:hover{
+  color:deeppink;
+  font-size: 1.5rem;
+}
+
